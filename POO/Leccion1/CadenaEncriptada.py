@@ -75,7 +75,7 @@ caja3.place(x=200, y=240)
 caja3.insert(0,text3)
 
 def clean():
-    caja1 = caja1.insert('')
+    pass
 
 
 boton1 = ttk.Button(text="GENERAR", command=[cadena1,cadena2,cadena3])
